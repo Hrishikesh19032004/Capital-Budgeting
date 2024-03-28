@@ -1,3 +1,7 @@
+![Screenshot (233)](https://github.com/Hrishikesh19032004/Capital-Budgeting/assets/121174859/372da846-7fc6-4328-9274-da6f2f3cf73d)
+![Screenshot (232)](https://github.com/Hrishikesh19032004/Capital-Budgeting/assets/121174859/a8eaf909-708c-4d81-8794-568ebb0b873c)
+![Screenshot (231)](https://github.com/Hrishikesh19032004/Capital-Budgeting/assets/121174859/81c5019e-0471-4a8b-bc8f-65b007a2bff7)
+![Screenshot (211)](https://github.com/Hrishikesh19032004/Capital-Budgeting/assets/121174859/fa3f4a79-258f-463b-b6b2-ba2766d0854e)
 ## CapitalCraft
 
 CapitalCraft is a financial management tool designed to help users make informed investment decisions by crafting their financial future, one investment at a time.
